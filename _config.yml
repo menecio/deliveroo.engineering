@@ -68,3 +68,4 @@ exclude:
   - Guardfile
   - token
   - bin
+  - vendor
